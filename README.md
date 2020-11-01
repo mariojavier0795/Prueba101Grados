@@ -1,6 +1,9 @@
 # Prueba101Grados
 
-Installation
-$ npm install
-Running the app
-$ npm start
+Para la instalación de Dependencias:
+
+\$ npm install
+
+Correr la aplicación:
+
+\$ npm start
